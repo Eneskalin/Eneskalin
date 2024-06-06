@@ -15,10 +15,9 @@
  </div>
  
 <div align="center"> 
-  <a href="enes6813@yandex.com">
     <img src="https://skillicons.dev/icons?i=gmail" /> 
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/enes-kal%C4%B1n/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
   
