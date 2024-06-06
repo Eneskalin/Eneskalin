@@ -15,7 +15,6 @@
  </div>
  
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=gmail" /> 
   </a>
   <a href="https://www.linkedin.com/in/enes-kal%C4%B1n/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
