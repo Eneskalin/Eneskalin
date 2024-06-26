@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Eneskalin/Eneskalin/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
