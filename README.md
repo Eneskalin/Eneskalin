@@ -28,13 +28,13 @@
 <h2 align="center"> -  Tools - </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ae,anaconda,vscode,visualstudio,git,linux,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=ps,ae,anaconda,vscode,idea,visualstudio,git,linux,kali,npm,figma" /><br>
 
 </div>
 <h2 align="center"> -  Languages/Frameworks - </h2>
 <div align="center">
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,css,html,go,react,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,css,html,go,react,tailwind,bootstrap" />
   </a>
 
 </div>
